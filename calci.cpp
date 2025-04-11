@@ -4,6 +4,7 @@ using namespace std;
 // Function to add two numbers
 float add(float a, float b) {
     // TODO: Implement addition logic
+    return a+b;
 }
 
 // Function to subtract two numbers
