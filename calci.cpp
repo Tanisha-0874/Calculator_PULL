@@ -9,6 +9,7 @@ float add(float a, float b) {
 // Function to subtract two numbers
 float subtract(float a, float b) {
     // TODO: Implement subtraction logic
+    return a-b;
 }
 
 // Function to multiply two numbers
