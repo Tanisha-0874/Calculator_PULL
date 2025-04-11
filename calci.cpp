@@ -15,6 +15,7 @@ float subtract(float a, float b) {
 // Function to multiply two numbers
 float multiply(float a, float b) {
     // TODO: Implement multiplication logic
+    return a*b;
 }
 
 // Function to divide two numbers
